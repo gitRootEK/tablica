@@ -3,6 +3,6 @@
 </head>
 <body>
 tablica tablica tablica<br />
- To jest tablica
+ To jest tablica z kolejną modyfikacją.
 </body>
 </html>
